@@ -1,14 +1,12 @@
 
-$${\color{favouritecolour}Full \space Name}$$
+$${\color{Darkgreen}Mohd \space Syakirin \space Wa'ie \space Bin \space Haji \space Morni}$$
 
 
 |  **Name**    | **Age**          | **Registration number** |  **Hobby**  | **Role** |
-| ------------- |:-------------:| -----:| -----:|-----:|
-|       |  | |
-|       |      |    |
-|  |      |    |
+| ------------- |:-------------:| ----------:| ------------:|---------:|
+| Syakirin      | 19        | 24b2036       |  Football  |  
 
-Fav math concept + why
+
 
 funfact+ hobbies
 
