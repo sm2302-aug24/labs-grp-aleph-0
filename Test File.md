@@ -1,1 +1,1 @@
-$${\color{lavender}Colored \space Text \space Test}$$
+$${\color{purple}Colored \space Text \space Test}$$
