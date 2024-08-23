@@ -1,4 +1,4 @@
-$${\color{purple}Full \space Name}$$
+$${\color{purple}Ahmad \space Rezqaa \space As-Syafi'ee \space Bin \space Elmie \space Faizal}$$
 
 | Name | Registry Number | Age | Role |
 | --- | --- | --- | --- |
