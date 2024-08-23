@@ -1,1 +1,1 @@
-$${\color{lavender}Colored Text Test}$$
+$${\color{lavender}Colored /space/ Text /space/ Test}$$
