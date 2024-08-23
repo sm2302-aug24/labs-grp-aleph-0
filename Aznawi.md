@@ -9,7 +9,8 @@ $${\color{darkgreen} Aznawi \space bin \space Samat}$$
 My favorite math concept is the complex number because it reveals that even the most abstract problems have solutions, showing that in the world of mathematics, anything is possible.
 
 funfact+ hobbies
-
+Funfact: 
+Hobby: 
 
 photo
 
