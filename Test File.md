@@ -1,1 +1,1 @@
-<code style ="color : lavender">Coloured text test</code>
+$${\color{lavender}Colored Text Test}$$
